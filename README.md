@@ -73,7 +73,7 @@ LangChain | RAG Pipelines | Agentic AI | GPT Models | Claude | Azure OpenAI | Hu
 
 - 💼 **LinkedIn**: [Dnyaneshwar Sakhare](https://www.linkedin.com/in/dnyaneshwar-sakhare-7b7a08251)
 - 📧 **Email**: Dnyaneshwar.Sakhare.Net@gmail.com
-- 🌐 **Portfolio**: [My Work](https://roaring-biscotti-ff73dc.netlify.app)
+- 🌐 **Portfolio**: [My Work](https://dnyaneshwar-sakhare.netlify.app/)
 - 💻 **GitHub**: [@DnyaneshwarSakhare897](https://github.com/DnyaneshwarSakhare897)
 
 ---
